@@ -1,7 +1,7 @@
 # MetroMap
 MetroMap for MacPaw by Vyacheslav Chukhno
 
-You can watch short video that demonstrates app:
+You can watch short youtube video that demonstrates app:
 
 [![Youtube Video](https://img.youtube.com/vi/vHXjgVbwGv8/0.jpg)](https://www.youtube.com/watch?v=vHXjgVbwGv8)
 
