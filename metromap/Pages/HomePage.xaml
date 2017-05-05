@@ -1,0 +1,19 @@
+﻿<mui:ModernFrame x:Class="MetroMap.HomePage"
+                  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+                  xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+                  xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+                  mc:Ignorable="d" 
+                  d:DesignHeight="700" d:DesignWidth="980" Loaded="ModernFrame_Loaded">
+    <Grid>
+        <ScrollViewer >
+            <Grid Width="980" Height="700">
+                <Canvas x:Name="canvas">
+                    <Label Background="White" FontSize="20" Margin="25" Padding="5">Click on stations to build route</Label>
+                </Canvas>
+            </Grid>
+        </ScrollViewer>
+        
+    </Grid>
+</mui:ModernFrame>

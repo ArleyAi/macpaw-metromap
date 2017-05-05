@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MetroMap>
+  <City>
+    Киев
+  </City>
+  <MetroLines>
+    <Line>
+      <Index>3</Index>
+      <Title>#00FF00</Title>
+      <Color></Color>
+      <Stations>
+        
+        <Station>
+          <Index>
+            1
+          </Index>
+          <Title>
+            Сырец
+          </Title>
+          <TimeToNext>
+            4
+          </TimeToNext>
+          <X>
+            245
+          </X>
+          <Y>
+            230
+          </Y>
+        </Station>
+
+        <Station>
+          <Index>
+            2
+          </Index>
+          <Title>
+            Дорогожичи
+          </Title>
+          <TimeToNext>
+            6
+          </TimeToNext>
+          <X>
+            300
+          </X>
+          <Y>
+            245
+          </Y>
+        </Station>
+
+        <Station>
+          <Index>
+            3
+          </Index>
+          <Title>
+            Лукяновская
+          </Title>
+          <TimeToNext>
+            0
+          </TimeToNext>
+          <X>
+            390
+          </X>
+          <Y>
+            290
+          </Y>
+        </Station>
+        
+      </Stations>
+    </Line>
+  </MetroLines>
+</MetroMap>
