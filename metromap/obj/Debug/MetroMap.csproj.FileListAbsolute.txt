@@ -16,3 +16,5 @@ C:\Users\User\Desktop\DS\obj\Debug\MetroMap.g.resources
 C:\Users\User\Desktop\DS\obj\Debug\MetroMap.exe.licenses
 C:\Users\User\Desktop\DS\obj\Debug\MetroMap.exe
 C:\Users\User\Desktop\DS\obj\Debug\MetroMap.pdb
+C:\Users\User\Desktop\Projects\!!Other\MetroMap\metromap\obj\Debug\MetroMap.exe
+C:\Users\User\Desktop\Projects\!!Other\MetroMap\metromap\obj\Debug\MetroMap.pdb

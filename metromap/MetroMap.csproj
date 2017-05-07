@@ -81,10 +81,9 @@
     <Compile Include="Models\MetroCore.cs" />
     <Compile Include="Models\MetroLine.cs" />
     <Compile Include="Models\MetroMap.cs" />
-    <Compile Include="Models\NavigationService.cs" />
+    <Compile Include="Services\NavigationService.cs" />
     <Compile Include="Models\MetroStation.cs" />
-    <Compile Include="Models\RouteSearcher.cs" />
-    <Compile Include="Models\WaitCursor.cs" />
+    <Compile Include="Services\RouteService.cs" />
     <Compile Include="Pages\AboutPage.xaml.cs">
       <DependentUpon>AboutPage.xaml</DependentUpon>
     </Compile>

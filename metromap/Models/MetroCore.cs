@@ -10,6 +10,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.Xml.Serialization;
+using MetroMap.Services;
 
 namespace MetroMap.Models
 {
@@ -94,7 +95,7 @@ namespace MetroMap.Models
         {
             canvasL1.Children.Clear();
 
-            var searcher = new RouteSearcher(Map); //Creating searcher instance.
+            var searcher = new RouteService(Map); //Creating searcher instance.
 
             var info = searcher.FindRoute(s1, s2); //Searching route.
 

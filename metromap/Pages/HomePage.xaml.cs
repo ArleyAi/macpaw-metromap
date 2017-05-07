@@ -33,10 +33,6 @@ namespace MetroMap
             var core = MetroCore.GetInstance();
 
             core.Initialize(@"Map.xml", @"Map.jpg", canvas);
-
-            
-
-            
         }
     }
 }

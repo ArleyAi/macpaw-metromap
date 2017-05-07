@@ -1,21 +1,22 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using MetroMap.Models;
 
-namespace MetroMap.Models
+namespace MetroMap.Services
 {
     /// <summary>
     /// Searches optimal route on the Metro map.
     /// </summary>
-    class RouteSearcher
+    class RouteService
     {
 
         /// <param name="m">Map to search in.</param>
-        public RouteSearcher(MetroMap m)
+        public RouteService(MetroMap.Models.MetroMap m)
         {
             map = m;
         }
 
-        private MetroMap map;
+        private MetroMap.Models.MetroMap map;
 
         private MetroStation targetStation;
 
