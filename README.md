@@ -1,5 +1,5 @@
 # MetroMap
-MetroMap for by Vyacheslav Chukhno
+MetroMap for MacPaw by Vyacheslav Chukhno
 
 You can watch short youtube video that demonstrates app:
 
